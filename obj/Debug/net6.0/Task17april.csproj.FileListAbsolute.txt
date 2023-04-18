@@ -1,0 +1,30 @@
+C:\Users\lenovo\source\repos\Task17april\Task17april\bin\Debug\net6.0\Task17april.exe
+C:\Users\lenovo\source\repos\Task17april\Task17april\bin\Debug\net6.0\Task17april.deps.json
+C:\Users\lenovo\source\repos\Task17april\Task17april\bin\Debug\net6.0\Task17april.runtimeconfig.json
+C:\Users\lenovo\source\repos\Task17april\Task17april\bin\Debug\net6.0\Task17april.dll
+C:\Users\lenovo\source\repos\Task17april\Task17april\bin\Debug\net6.0\Task17april.pdb
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.dll
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\refint\Task17april.dll
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.pdb
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\Task17april.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\Task17april\Task17april\obj\Debug\net6.0\ref\Task17april.dll
+C:\Users\lenovo\OneDrive\İş masası\Task17april\bin\Debug\net6.0\Task17april.exe
+C:\Users\lenovo\OneDrive\İş masası\Task17april\bin\Debug\net6.0\Task17april.deps.json
+C:\Users\lenovo\OneDrive\İş masası\Task17april\bin\Debug\net6.0\Task17april.runtimeconfig.json
+C:\Users\lenovo\OneDrive\İş masası\Task17april\bin\Debug\net6.0\Task17april.dll
+C:\Users\lenovo\OneDrive\İş masası\Task17april\bin\Debug\net6.0\Task17april.pdb
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.csproj.AssemblyReference.cache
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.dll
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\refint\Task17april.dll
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.pdb
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\Task17april.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\İş masası\Task17april\obj\Debug\net6.0\ref\Task17april.dll
